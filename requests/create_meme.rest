@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/memes
+Content-Type: application/json
+
+
+{
+    "title": "Meemi9",
+    "num": 9
+}
